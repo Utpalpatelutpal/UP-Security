@@ -1713,7 +1713,7 @@ padding-top: 12px;
 	
 	.navbar-collapse.collapse  {
 		border: none;
-		overflow: hidden;
+		overflow: visible;
 	}
 
 	
