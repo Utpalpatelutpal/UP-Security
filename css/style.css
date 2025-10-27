@@ -1817,5 +1817,21 @@ width:100%;
 
 
 }
+@media (max-width: 767px) {
+  .navbar-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+
+  .navbar-brand img {
+    max-height: 35px;
+  }
+
+  .navbar-toggle {
+    margin-top: 0;
+  }
+}
+
 
  
