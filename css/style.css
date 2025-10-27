@@ -1814,21 +1814,7 @@ width:100%;
 		height:20px;
 		font-size:14px;
 	}
-@media (max-width: 767px) {
-  .navbar-header {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-  }
 
-  .navbar-brand img {
-    max-height: 35px;
-  }
-
-  .navbar-toggle {
-    margin-top: 0;
-  }
-}
 
 }
 
